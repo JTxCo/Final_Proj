@@ -1,0 +1,23 @@
+# ninja log v5
+0	1857	1734214116996697154	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	fb9369109d2d5127
+1	1461	1734214116599791477	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	63f950eb3c334c65
+1	1697	1734214116833126728	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2a29d2dfdf6c7cf8
+2	1394	1734214116528974741	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	889ab9e71141a916
+2	1294	1734214116429750961	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7613eac2719d2488
+1	1229	1734214116364282927	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c2445d4c64382af1
+1	1278	1734214116417067828	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	da1ba4b0af44cac8
+1	1239	1734214116374363449	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7991000dcdcc55e1
+232	424	1734214115558883116	/Users/joelcarlson/Library/Mobile Documents/com~apple~CloudDocs/Masters/Fall-2024/VR/Final_Proj/FInal_Proj/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/53ee1jl4/obj/arm64-v8a/libswappywrapper.so	3545316de8c1bde6
+1857	2000	1734214117135682075	/Users/joelcarlson/Library/Mobile Documents/com~apple~CloudDocs/Masters/Fall-2024/VR/Final_Proj/FInal_Proj/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/53ee1jl4/obj/arm64-v8a/libgame.so	ebfb09cdd32f765
+3	231	1734214115372648754	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	96a0dd85c266ec98
+8	295	1734214820007655395	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	96a0dd85c266ec98
+295	636	1734214820342161217	/Users/joelcarlson/Library/Mobile Documents/com~apple~CloudDocs/Masters/Fall-2024/VR/Final_Proj/FInal_Proj/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/53ee1jl4/obj/arm64-v8a/libswappywrapper.so	3545316de8c1bde6
+5	1486	1734214821192883120	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c2445d4c64382af1
+5	1499	1734214821206304520	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7991000dcdcc55e1
+4	1553	1734214821259845404	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	da1ba4b0af44cac8
+6	1575	1734214821282153236	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7613eac2719d2488
+8	1676	1734214821384806907	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	889ab9e71141a916
+4	1762	1734214821469037498	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	63f950eb3c334c65
+5	2038	1734214821740670614	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2a29d2dfdf6c7cf8
+2	2239	1734214821945244997	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	fb9369109d2d5127
+2239	2401	1734214822105631196	/Users/joelcarlson/Library/Mobile Documents/com~apple~CloudDocs/Masters/Fall-2024/VR/Final_Proj/FInal_Proj/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/53ee1jl4/obj/arm64-v8a/libgame.so	ebfb09cdd32f765
